@@ -1,0 +1,6 @@
+outs:
+- md5: 5f2fd386b5a74cd6609c21d992daa5a3
+  size: 3751960
+  isexec: true
+  hash: md5
+  path: V_OCORRENCIA_AMPLA.csv

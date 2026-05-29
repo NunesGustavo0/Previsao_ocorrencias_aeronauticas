@@ -1,1 +1,8 @@
 .ipynb*
+ml
+__pycache__
+mlruns
+mlruns.db
+ocorrencia_pre_tratado.csv
+.dvc/cache
+.dvc/tmp

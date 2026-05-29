@@ -1,0 +1,10 @@
+.git
+.dvc/cache
+.dvc/tmp
+.agents
+.codex
+.ipynb_checkpoints
+__pycache__
+*.pyc
+ml
+*.csv

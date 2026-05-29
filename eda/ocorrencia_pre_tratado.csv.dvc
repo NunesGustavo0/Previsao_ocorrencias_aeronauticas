@@ -1,0 +1,5 @@
+outs:
+- md5: 95dfffe84a89abbea319fca83d9be194
+  size: 3463146
+  hash: md5
+  path: ocorrencia_pre_tratado.csv
