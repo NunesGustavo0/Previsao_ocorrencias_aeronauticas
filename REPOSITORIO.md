@@ -2,10 +2,10 @@
 
 Repositorio publico:
 
-https://github.com/NunesGustavo0/Previsao_ocorrencias_aeronauticas
+https://github.com/NunesGustavo0/ocorrencias_aeronauticas
 
 Remote local configurado neste checkout:
 
 ```bash
-git@github.com:NunesGustavo0/Previsao_ocorrencias_aeronauticas.git
+git@github.com:NunesGustavo0/ocorrencias_aeronauticas.git
 ```

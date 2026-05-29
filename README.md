@@ -4,7 +4,7 @@ Projeto do Desafio 01 IFAM / AxAcademy para classificar a seriedade de ocorrenci
 
 ## Problema e metrica de sucesso
 
-O objetivo e prever a coluna `Classificacao_da_Ocorrencia`, separando classes como `Acidente`, `Incidente` e `Incidente Grave` a partir de informacoes operacionais, geograficas e tecnicas da ocorrencia e da aeronave.
+O objetivo e prever a coluna `Classificacao_da_Ocorrencia`, separando classes como `Acidente` e `Incidente Grave` a partir de informacoes operacionais, geograficas e tecnicas da ocorrencia e da aeronave.
 
 A metrica principal e `F1-macro`, porque o problema tem classes desbalanceadas e a avaliacao precisa considerar desempenho medio entre as classes. A meta definida para sucesso do projeto e atingir pelo menos `0,90` de F1-macro; no experimento atual, o melhor modelo chegou a `0,7178`, portanto ainda ha espaco claro de melhoria.
 
